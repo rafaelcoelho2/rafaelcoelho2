@@ -11,7 +11,7 @@
 - 🔭 Atualmente desenvolvendo projetos em **JavaScript, Node.js e React**
 - 🌱 Aprendendo tecnologias como **TypeScript** e **Next.js**
 - 💬 Gosto de compartilhar conhecimento sobre desenvolvimento web
-- 📫 Contato: [rafaelfariascoelho2@gmail.com]()
+- 📫 Contato: []()
 
 ---
 
