@@ -51,11 +51,11 @@
 ### 🎨 Estilo e personalidade
 
 <p align="center">
- https://pin.it/4YnYRdPZj
+
 </p>
 
 ---
 
 <p align="center">
-  Feito com ❤️ por <strong>Rafael Farias Coelho</strong>
+  
 </p>
