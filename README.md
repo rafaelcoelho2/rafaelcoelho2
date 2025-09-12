@@ -32,10 +32,10 @@
 
 ## 📊 Minhas Estatísticas no GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=rafaelcoelho2&show_icons=true&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelcoelho2&layout=compact&theme=radical)
 
-[![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+[![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=rafaelcoelho2&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ---
