@@ -42,8 +42,8 @@
 
 ### 🚀 Meus repositórios em destaque
 
-- [🔗 Projeto Portfólio](https://github.com/rafaelcoelho2/python-algoritimo-html-css/blob/main/snake-saqua.py)
-- [🔗 API com Node.js](https://github.com/rafaelfariascoelho/minha-api-node)
+- [🔗 Projeto backend](https://github.com/rafaelcoelho2/python-algoritimo-html-css/blob/main/snake-saqua.py)
+- [🔗 API com Node.js](https://github.com/rafaelcoelho2/biblioteca-de-livros)
 - [🔗 Front-End com React](https://github.com/rafaelfariascoelho/react-app)
 
 ---
