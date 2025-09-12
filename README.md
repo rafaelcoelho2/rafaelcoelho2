@@ -42,7 +42,7 @@
 
 ### 🚀 Meus repositórios em destaque
 
-- [🔗 Projeto Portfólio](https://github.com/rafaelfariascoelho/portfolio)
+- [🔗 Projeto Portfólio](https://github.com/rafaelcoelho2/python-algoritimo-html-css/blob/main/snake-saqua.py)
 - [🔗 API com Node.js](https://github.com/rafaelfariascoelho/minha-api-node)
 - [🔗 Front-End com React](https://github.com/rafaelfariascoelho/react-app)
 
